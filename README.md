@@ -1,2 +1,8 @@
 # Thriftier
-A discord bot I created to track one's expenses
+A discord bot track one's expenses. Add thriftier bot by clicking [here](https://discord.com/oauth2/authorize?client_id=1154232115517476905&permissions=139586956352&scope=bot).
+
+## List of Available Commands
+![A full list of bot commands](help.png)
+
+## Thriftier in Use
+![Testing out the bot commands](test.png)

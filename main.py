@@ -103,9 +103,6 @@ async def on_ready():
 async def on_message(message):
     if message.author == client.user: return
 
-    username = str(message.author.id)
-    channel = message.channel.id
-    server = str(message.guild.id)
     msg = message.content
 
     if msg.startswith("!add"):
